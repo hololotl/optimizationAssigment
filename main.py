@@ -1,5 +1,3 @@
-
-
 def show_function_from_cs(cs):
     if not cs:
         return ""
